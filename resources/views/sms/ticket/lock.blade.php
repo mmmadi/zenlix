@@ -1,0 +1,1 @@
+{{trans('sms.lock', ['code'=>$ticket['code'], 'user'=>$initUser], Null, $locale)}}

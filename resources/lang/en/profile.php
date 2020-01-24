@@ -1,0 +1,42 @@
+<?php
+
+return [
+
+"title"=>"Edit profile",
+"selectImg"=>"Select image",
+"delete"=>"Delete",
+"about"=>"About myself",
+"notify"=>"notice",
+"interface"=>"Interface",
+"security"=>"Security",
+"login"=>"Login",
+"email"=>"E-mail *",
+"name"=>"Display name",
+"posada"=>"Position",
+"address"=>"Address",
+"tel"=>"Phone",
+"birthday"=>"Date of birth",
+"skype"=>"Skype",
+"facebook"=>"Facebook",
+"twitter"=>"Twitter",
+"website"=>"Web-site",
+"skills"=>"Skills",
+"tags"=>"Tags",
+"add"=>"Additional fields",
+"selValue"=>"Select",
+"save"=>"Save",
+"mailNotify"=>"Mail-notification",
+"notifyDeactive"=>"At the moment, this type of notification is disabled in the system.",
+"smsNotify"=>"SMS-notifications",
+"mob"=>"Mobile number",
+"pbLogin"=>"PushBullet login",
+"lang"=>"Language",
+"shortURL"=>"Short URL",
+"oldPass"=>"Old password",
+"newPass"=>"New password",
+"renewPass"=>"Repeat new password",
+    'mobileDevices'=>'Mobile devices',
+    'mobileName'=>'Name',
+    'mobileDate'=>'Date'
+
+];

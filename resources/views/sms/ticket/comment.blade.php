@@ -1,0 +1,1 @@
+{{trans('sms.comment', ['code'=>$ticket['code']], Null, $locale)}}

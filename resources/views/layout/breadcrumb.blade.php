@@ -1,0 +1,1 @@
+<li><a href="{{URL::to('/')}}"><span class="icon-svg"></span> {{$SiteName}}</a></li>

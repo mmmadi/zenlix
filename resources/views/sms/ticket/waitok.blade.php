@@ -1,0 +1,1 @@
+{{trans('sms.waitok', ['code'=>$ticket['code']], Null, $locale)}}
